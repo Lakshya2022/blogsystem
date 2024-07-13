@@ -1,0 +1,15 @@
+  .user-menu {
+            padding: 0;
+            list-style: none;
+        }
+        .user-menu li {
+            margin: 5px 0;
+        }
+        .user-menu a {
+            text-decoration: none;
+            color: #333;
+        }
+        .user-menu a:hover {
+            text-decoration: underline;
+            color: #007bff;
+        }
